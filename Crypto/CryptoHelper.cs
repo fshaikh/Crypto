@@ -91,6 +91,11 @@ namespace Crypto
             return Encoding.UTF8.GetBytes(stringVal);
         }
 
+        public static string GetString(byte[] bytes)
+        {
+            return Encoding.UTF8.GetString(bytes);
+        }
+
         #endregion Helper Functions
 
         #endregion Public Methods

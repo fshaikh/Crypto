@@ -1,0 +1,3 @@
+﻿# Pending Investigations
+
+1. How brute force/rainbow table attacks work in hashing?
